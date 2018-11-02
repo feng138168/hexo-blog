@@ -50,7 +50,7 @@ var p3 = p2.catch(function (reason) {
   })
  */
 ```
-函数test有两个形参，一个成功的回调resolve，一个失败的回调reject，当执行resolve时，会执行then中的回调函数，执行resolve时，会执行catch中的回调函数。
+函数test有两个形参，一个成功的回调resolve，一个失败的回调reject，当执行resolve时，会执行then中的回调函数，执行resolve时，会执行catch中的回调函数。
 
 使用promise能降低代码的复杂度，用链式操作的方式也容易理解代码执行的顺利，方便代码阅读和维护。
 # promise如何使用
