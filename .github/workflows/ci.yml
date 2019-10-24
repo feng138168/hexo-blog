@@ -1,9 +1,6 @@
-name: Main workflow
+name: Node CI
 
-on:
-push:
-    branches:
-    - raw
+on: [push]
 
 jobs:
   build:
