@@ -15,5 +15,6 @@
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-renderer-marked": "^0.3.2",
     "hexo-server": "^0.3.1"
-  }
+  },
+  "homepage": "https://feng138168.github.io/hexo-blog"
 }
